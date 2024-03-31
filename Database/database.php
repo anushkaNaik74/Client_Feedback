@@ -1,0 +1,1 @@
+<?php $con = mysqli_connect("localhost", "root", "Anushka@25", "pr_project"); ?>
